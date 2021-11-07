@@ -1,7 +1,7 @@
 # PongGamePythonpygame
-I made a Pong game with the Pygame library
+I made a Pong game with the Pygame library on Python. Code in Python
 
-Recréation du jeu 'Pong' avec Pygame.
+Recréation du jeu 'Pong' avec Pygame.Codé en langage Python
 Le code se lit avec Pycharm. Vous devez installer la librairie Pygame en écrivant dans la ligne de commande 'pip install pygame', puis l'installer/l'activer dans Pycharm;
 Une fois installé vous n'avez qu'a sélectionner le document et faire run; cela se joue avec la flêche du haut et la flêche du bas.
 //-------------------------------------------------------------------------------------------------------------------------------------------------------------------
