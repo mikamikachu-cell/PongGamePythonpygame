@@ -10,3 +10,4 @@ Recreation of the game 'Pong' with Pygame. The code reads with Pycharm. You need
 and then install/activate it in Pycharm; Once installed you just have to select the document and run; this is played with the top arrow and the bottom arrow
 
 
+![Capture](https://user-images.githubusercontent.com/81223524/140642287-6815c8b8-4b33-4e0c-9e9f-554009e5174a.PNG)
